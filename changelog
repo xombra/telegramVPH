@@ -1,4 +1,16 @@
-commit a5997c3617fa1aab2a025334732aa62faa40ef47 (HEAD, origin/master, origin/HEAD, master)
+commit 1c3e926ae3ab77587824282a015a70582b5fa8c6 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Fri Nov 28 14:17:19 2014 -0430
+
+    * informacion de copyright
+
+commit fe0df2b3ae53017cf236d3d61b482803a36ad5f6
+Author: xombra <xombra.com@gmail.com>
+Date:   Fri Nov 28 14:15:08 2014 -0430
+
+    * changelog
+
+commit a5997c3617fa1aab2a025334732aa62faa40ef47
 Author: xombra <xombra.com@gmail.com>
 Date:   Fri Nov 28 14:14:20 2014 -0430
 
