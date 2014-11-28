@@ -9,10 +9,10 @@ import time
 from subprocess import Popen, PIPE, STDOUT
 
 grupo = 'TL'
-ruta = '/home/willicab/Documentos/'
+ruta = '/home/USUARIO/Documentos/'
 documentos = ['const-brasil']
 
-p = Popen(['telegram', '-k', '/home/willicab/app/tg/tg-server.pub'], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
+p = Popen(['telegram', '-k', '/home/USUARIO/app/tg/tg-server.pub'], stdout=PIPE, stdin=PIPE, stderr=STDOUT)
 time.sleep(5)
 p.stdin.write('chat_with_peer ' + grupo + '\n')
 
